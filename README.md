@@ -1,5 +1,8 @@
 # campaign-module info
 
+About:
+This module is created to be able to execute different campaign scenarios using an input file.
+
 Execution Steps: 
 
 1. Download campaign-module-1.0-SNAPSHOT-shaded.jar
@@ -8,5 +11,5 @@ Execution Steps:
 4. Execute jar file using "java -jar campaign-module-1.0-SNAPSHOT-shaded.jar"
 
 Notes : 
-* Java execution command should be run in containing directory in order to read input.txt file without error.
+* Java execution command should be run in containing directory in order to read input.txt file without errors.
 * input.txt can be modified for different scenarios.
