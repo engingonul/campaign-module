@@ -1,6 +1,6 @@
 # campaign-module info
 
-About:
+
 This module is created to be able to execute different campaign scenarios using an input file.
 
 Execution Steps: 
